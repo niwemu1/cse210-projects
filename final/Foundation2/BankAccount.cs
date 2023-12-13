@@ -26,5 +26,5 @@ public class BankAccount
         }
     }
   
-    public decimal GetBalance() { return balance; }
+    public decimal GetBalance() {return balance;}
 }

@@ -11,7 +11,7 @@ class Program
 
       Rectangle r1 = new Rectangle();
       r1.calculateArea();
-      r1.calculatePerimeter(r1.length, r1.sides);
+      r1.calculatePerimeter( r1.length, r1.sides );
       
     }
 }

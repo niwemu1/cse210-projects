@@ -6,7 +6,7 @@ class Program
     {
         BankAccount b = new BankAccount(20000);
   
-        b.Deposit(8000);
+        b.Deposit(5000);
         Console.WriteLine("Balance: " + b.GetBalance());
   
         b.Withdraw(32000);

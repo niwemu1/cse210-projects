@@ -8,7 +8,7 @@ class Square : Shape
 {
  
     private int side;
-    public Square(int x = 0)
+    public Square( int x = 0 )
     {
       side = x;
     }

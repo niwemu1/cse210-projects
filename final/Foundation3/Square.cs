@@ -3,7 +3,7 @@ using System;
 class Square : RegularPolygon
 {
 
-    public int  length = 550;
+    public int  length = 500;
     public int sides = 4;
     public void calculateArea() 
     {

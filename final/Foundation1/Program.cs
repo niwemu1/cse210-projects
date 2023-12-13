@@ -9,7 +9,7 @@ using System;
        
         double result = s.area();
          
-        Console.Write("{0}", result);
+        Console.Write( "{0}", result );
   
     }
   }
